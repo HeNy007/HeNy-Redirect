@@ -2,6 +2,28 @@
   <img width="100%" src="https://github.com/HeNy007/HeNy-Redirect/raw/main/%D8%B5%D9%81%D8%AD%D8%A9-%D8%A5%D8%B9%D8%A7%D8%AF%D8%A9-%D8%AA%D9%88%D8%AC%D9%8A%D9%87-%D9%84%D9%85%D8%AF%D9%88%D9%86%D8%A7%D8%AA-%D8%A8%D9%84%D9%88%D8%AC%D8%B1-%D8%B3%D9%83%D8%B1%D8%A8%D8%AA-%D8%A7%D8%AE%D8%AA%D8%B5%D8%A7%D8%B1-%D8%AA%D9%84%D9%82%D8%A7%D8%A6%D9%8A.jpg">
 </p>
 
+<h1 align="center">Redirect Page Blogger</h1>
+
+<p align="center">سكريبت إعادة توجيه بلوجر</p>
+
+<p align="center">
+  <a aria-label="npm package" href="https://www.npmjs.com/package/@HeNy007/HeNy-Redirect">
+    <img alt="" src="https://img.shields.io/npm/v/@primer/css.svg">
+  </a>
+  <a aria-label="build status" href="https://github.com/HeNy007/HeNy-Redirect/actions/workflows/ci.yml">
+    <img alt="" src="https://github.com/primer/css/actions/workflows/ci.yml/badge.svg">
+  </a>
+  <a aria-label="contributors graph" href="https://github.com/HeNy007/HeNy-Redirect/graphs/contributors">
+    <img src="https://img.shields.io/github/contributors/primer/css.svg">
+  </a>
+  <a aria-label="last commit" href="https://github.com/HeNy007/HeNy-Redirect/commits/main">
+    <img alt="" src="https://img.shields.io/github/last-commit/primer/css.svg">
+  </a>
+  <a aria-label="license" href="https://github.com/HeNy007/HeNy-Redirect/blob/main/LICENSE">
+    <img src="https://img.shields.io/github/license/HeNy007/HeNy-Redirect.svg" alt="">
+  </a>
+</p>
+
 # Redirect Page Blogger
 اضافة صفحة اعادة توجيه بلوجر 
 
