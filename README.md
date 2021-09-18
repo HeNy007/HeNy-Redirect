@@ -63,7 +63,7 @@ t.parentNode.insertBefore(e,t)}();
 
 ```
 ## أخيراً 
-لا تنسى تغيير رابط صفحة التحويل الخاصة بي : 
+لا تنسى تغيير رابط صفحة التحويل الخاصة بي برابط صفحتك
 ```
 https://aliwixweb.blogspot.com/p/safelink.html
 ```
