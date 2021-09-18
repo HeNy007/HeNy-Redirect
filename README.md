@@ -56,7 +56,7 @@ t.parentNode.insertBefore(e,t)}();
 </script>
 
 ```
-##أخيرا 
+## أخيراً 
 لا تنسى تغيير رابط صفحة التحويل الخاصة بي : 
 ```
 https://aliwixweb.blogspot.com/p/safelink.html
