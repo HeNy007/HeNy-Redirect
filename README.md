@@ -47,7 +47,7 @@ var redirecttext = "جاري التوجيه";
 var urltextinput ="ضع الرابط هنا";
 var textgeturl = "الحصول على رابط التوجيه";
 var waittext = "إنتظر قليلا";
-var secondswait = 15; // عداد الثواني
+var secondswait = 20; // عداد الثواني
 var secondstext = ["ثانيا", "ثواني"]; 
 // تعديل على الالوان و الخط
 var fillStyle = "#552a86", // لون البنفسجي
