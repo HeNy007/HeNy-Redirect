@@ -1,5 +1,5 @@
 <p align="center">
-  <img width="99%" src="https://github.com/HeNy007/HeNy-Redirect/raw/main/%D8%B5%D9%81%D8%AD%D8%A9-%D8%A5%D8%B9%D8%A7%D8%AF%D8%A9-%D8%AA%D9%88%D8%AC%D9%8A%D9%87-%D9%84%D9%85%D8%AF%D9%88%D9%86%D8%A7%D8%AA-%D8%A8%D9%84%D9%88%D8%AC%D8%B1-%D8%B3%D9%83%D8%B1%D8%A8%D8%AA-%D8%A7%D8%AE%D8%AA%D8%B5%D8%A7%D8%B1-%D8%AA%D9%84%D9%82%D8%A7%D8%A6%D9%8A.jpg">
+  <img width="100%" src="https://github.com/HeNy007/HeNy-Redirect/raw/main/%D8%B5%D9%81%D8%AD%D8%A9-%D8%A5%D8%B9%D8%A7%D8%AF%D8%A9-%D8%AA%D9%88%D8%AC%D9%8A%D9%87-%D9%84%D9%85%D8%AF%D9%88%D9%86%D8%A7%D8%AA-%D8%A8%D9%84%D9%88%D8%AC%D8%B1-%D8%B3%D9%83%D8%B1%D8%A8%D8%AA-%D8%A7%D8%AE%D8%AA%D8%B5%D8%A7%D8%B1-%D8%AA%D9%84%D9%82%D8%A7%D8%A6%D9%8A.jpg">
 </p>
 
 # Redirect Page Blogger
